@@ -39,3 +39,5 @@
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 * `Support`: Your support chat.
+##Working
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/AVi7hZ?referralCode=TsT9mv)
